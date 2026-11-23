@@ -23,9 +23,11 @@ You don't need a GitHub account: click a Download link and the zip saves straigh
 ## How to install (about 1 minute)
 
 1. **Download** the skill's zip from the table above.
-2. Open the **Claude desktop app** on your computer (Mac or Windows).
-3. **Drop the zip into the chat** and type: **"Set up this skill for me."**
-4. Claude runs the setup itself and renders a short test video to check that everything works.
+2. Open the **Claude desktop app** on your computer (Mac or Windows) and switch to the **Code** tab (the **</>** icon at the top left). Pick any folder when it asks, Downloads is fine.
+3. **Drop the zip into the Code chat** and type: **"Set up this skill for me."**
+4. Claude installs the skill, sets up everything it needs, and runs a quick test to check that it works.
+
+Use the **Code** tab, not the normal chat. The normal chat can't install a skill that comes with its own video engine; it will only tell you to upload it yourself.
 
 If something is missing on your computer (for example Python), Claude tells you the one thing to click. You never need to create folders or type commands.
 
@@ -34,7 +36,7 @@ If something is missing on your computer (for example Python), Claude tells you 
 ## FAQ
 
 **Do I need to pay for Claude?**
-Skills work on every Claude plan, including Free. Turn on **code execution** in Settings → Capabilities first. A full video is a lot of work, though, so on the Free plan you'll probably reach your limit before it finishes. **Pro is the realistic starting point.**
+You need a plan that includes the Code tab in the desktop app (Pro or Max). A full video is a lot of work, so **Pro is the realistic starting point**, and Max gives you room for longer films.
 
 **How many videos can I make per plan?**
 It depends on the video's length and on the skill. Start with a short test (60 to 90 seconds) to see how much of your usage it takes.
